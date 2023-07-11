@@ -1,7 +1,7 @@
 ---
 title: KIT Astro pour débuter
 ---
-##➡ Voici un kit non exhaustif d'appli smartphone et sites Web bien utiles pour prendre pied dans l'Univers !
+## ➡ Voici un kit non exhaustif d'appli smartphone et sites Web bien utiles pour prendre pied dans l'Univers !
 
 **La météo**
 - Application et site web Ventusky : https://www.ventusky.com/fr
