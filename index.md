@@ -1,13 +1,15 @@
 ---
 title: KIT Astro pour débuter
 ---
-## ➡ Voici un kit non exhaustif d'appli smartphone et sites Web bien utiles pour prendre pied dans l'Univers !
+### ➡ Voici un kit non exhaustif d'appli smartphone et sites Web bien utiles pour prendre pied dans l'Univers !
 
-**La météo**
-- Application et site web Ventusky : https://www.ventusky.com/fr
-**Se repérer dans le ciel**
-- Daff Lune : Levé et couché des objets du ciel et bien plus...    
-**Quelques sites bien pratiques**
+**La météo**  
+- Application et site web Ventusky : https://www.ventusky.com/fr  
+
+**Se repérer dans le ciel**  
+- Daff Lune : Levé et couché des objets du ciel et bien plus...  
+
+**Quelques sites bien pratiques**  
 - Le sit du CAV - Centre Astronomique Vendéen 😉 : https://cav2022.wixsite.com/cav-letablier
 - https://www.astrofiles.net/calendrier/2023
 - SpaceWeather.com -- News and information about meteor showers, solar flares, auroras, and near-Earth asteroids : https://www.spaceweather.com/
