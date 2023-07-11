@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: KIT Astro pour débuter
 ---
 ##➡ Voici un kit non exhaustif d'appli smartphone et sites Web bien utiles pour prendre pied dans l'Univers !
 
