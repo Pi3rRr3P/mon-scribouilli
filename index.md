@@ -18,8 +18,8 @@ order: 1
 **Et quelques sites pratiques**  
 - Le site du CAV bien entendu ! - Centre Astronomique Vendéen 😉 : <https://cav2022.wixsite.com/cav-letablier>
 - Le site Astrofiles propose gratuitement une liste d'événements remarquables mois par mois : <https://www.astrofiles.net/calendrier/2023>
-- Le site SpaceWeather en anglais donne énormément d'informations en direct. Notamment la surface du soleil en direct, pour identifier si des tâches sont visibles : <https://www.spaceweather.com/>
-- Pour comprendre et s'amuser à faire tourner les planètes de notre système solaire, rendez-vous sur le site Theskylive : <https://theskylive.com/3dsolarsystem>
-- La revue Ciel & Espace propose sur son sites quelques articles d'actualité gratuitement et de qualité  : <https://www.cieletespace.fr/>
+- Le site SpaceWeather en anglais donne énormément d'informations en direct. Notamment la surface du soleil, pour identifier si des tâches sont visibles : <https://www.spaceweather.com/>
+- Pour s'amuser à faire tourner les planètes de notre système solaire et comprendre leurs mouvements, rendez-vous sur le site Theskylive : <https://theskylive.com/3dsolarsystem>
+- La revue Ciel & Espace propose sur son site quelques articles d'actualité gratuitement et de qualité  : <https://www.cieletespace.fr/>
 - Vous avez observé un bolide dans le ciel ? Signalez-le ou découvrez ce qui s'est passé sur le site de Vigiciel : <https://www.vigie-ciel.org/>
 - L'application smartphone Heavens-Above permet de savoir quand l'ISS et d'autres satellites passeront au dessus de nous. 
